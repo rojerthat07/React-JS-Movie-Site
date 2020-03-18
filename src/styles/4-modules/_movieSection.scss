@@ -1,0 +1,28 @@
+.movie-section{
+ 
+    tbody{
+        tr{
+            td{
+                .movie-section__title{
+                    font-weight: bold;
+                }
+                padding:1em;
+                img{
+
+                }
+                p{
+                   
+                }
+                input[type="button"]{
+                    background-color: rgb(111, 218, 125);
+                    padding:1em;
+                    border-radius: 40%;
+                    color:white;
+                    font-weight: bold;
+                    border: none;
+                    cursor: pointer;
+                }
+            }
+        }
+    }
+}
